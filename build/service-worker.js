@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "https://patidardhaval.github.io/reactdemo/precache-manifest.2ed9be3f1ba149dc4dc2cc580c262e10.js"
+  "https://patidardhaval.github.io/react/precache-manifest.a4860cf31d317b87c3bc6bb81bab443d.js"
 );
 
 workbox.clientsClaim();
@@ -28,7 +28,7 @@ self.__precacheManifest = [].concat(self.__precacheManifest || []);
 workbox.precaching.suppressWarnings();
 workbox.precaching.precacheAndRoute(self.__precacheManifest, {});
 
-workbox.routing.registerNavigationRoute("https://patidardhaval.github.io/reactdemo/index.html", {
+workbox.routing.registerNavigationRoute("https://patidardhaval.github.io/react/index.html", {
   
   blacklist: [/^\/_/,/\/[^\/]+\.[^\/]+$/],
 });
