@@ -1,5 +1,5 @@
 import React, { Component } from "react";
-import { BrowserRouter as Router, Route, NavLink } from "react-router-dom";
+import { BrowserRouter, Route, Link } from "react-router-dom";
 import Home from "./../View/Home";
 import Stuff from "./../View/Stuff";
 import Contact from "./../View/Contact";
@@ -11,14 +11,14 @@ class BasicLayout extends Component {
 
     render() {
         return (
-            <Router>
+      <BrowserRouter basename="demo-app/build/">
         <div>
           <h1>Simple SPA</h1>
           <ul className="header">
-            <li><NavLink exact activeClassName="active"  to="/">Home</NavLink></li>
-            <li><NavLink activeClassName="active" to="/stuff">Stuff</NavLink></li>
-            <li><NavLink activeClassName="active" to="/contact">Contact</NavLink></li>
-            <li><NavLink onClick={e=>this.logoutHandler(e)} to="/login">Login</NavLink></li>
+            <li><Link exact activeClassName="active"  to="/">Home</Link></li>
+            <li><Link activeClassName="active" to="/stuff">Stuff</Link></li>
+            <li><Link activeClassName="active" to="/contact">Contact</Link></li>
+            <li><Link onClick={e=>this.logoutHandler(e)} to="/login">Login</Link></li>
           </ul>
           <div className="content">
             <Route exact path="/" component={Home}/>
@@ -26,7 +26,7 @@ class BasicLayout extends Component {
             <Route path="/contact" component={Contact}/>
           </div>
         </div>
-      </Router>
+      </BrowserRouter>
         );
     }
 }
