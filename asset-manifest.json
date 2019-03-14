@@ -1,15 +1,15 @@
 {
-  "main.css": "./static/css/main.360f48c9.chunk.css",
-  "main.js": "./static/js/main.c88e886a.chunk.js",
-  "main.js.map": "./static/js/main.c88e886a.chunk.js.map",
-  "runtime~main.js": "./static/js/runtime~main.d653cc00.js",
-  "runtime~main.js.map": "./static/js/runtime~main.d653cc00.js.map",
-  "static/css/2.e8bd0fc0.chunk.css": "./static/css/2.e8bd0fc0.chunk.css",
-  "static/js/2.5ec48e7c.chunk.js": "./static/js/2.5ec48e7c.chunk.js",
-  "static/js/2.5ec48e7c.chunk.js.map": "./static/js/2.5ec48e7c.chunk.js.map",
-  "index.html": "./index.html",
-  "precache-manifest.67916d0d1961e0de1635acff64e39b36.js": "./precache-manifest.67916d0d1961e0de1635acff64e39b36.js",
-  "service-worker.js": "./service-worker.js",
-  "static/css/2.e8bd0fc0.chunk.css.map": "./static/css/2.e8bd0fc0.chunk.css.map",
-  "static/css/main.360f48c9.chunk.css.map": "./static/css/main.360f48c9.chunk.css.map"
+  "main.css": "https://patidardhaval.github.io/react/static/css/main.80adca6a.chunk.css",
+  "main.js": "https://patidardhaval.github.io/react/static/js/main.761d73b0.chunk.js",
+  "main.js.map": "https://patidardhaval.github.io/react/static/js/main.761d73b0.chunk.js.map",
+  "runtime~main.js": "https://patidardhaval.github.io/react/static/js/runtime~main.6bee9e38.js",
+  "runtime~main.js.map": "https://patidardhaval.github.io/react/static/js/runtime~main.6bee9e38.js.map",
+  "static/css/2.df750fbc.chunk.css": "https://patidardhaval.github.io/react/static/css/2.df750fbc.chunk.css",
+  "static/js/2.5ec48e7c.chunk.js": "https://patidardhaval.github.io/react/static/js/2.5ec48e7c.chunk.js",
+  "static/js/2.5ec48e7c.chunk.js.map": "https://patidardhaval.github.io/react/static/js/2.5ec48e7c.chunk.js.map",
+  "index.html": "https://patidardhaval.github.io/react/index.html",
+  "precache-manifest.299d63240196b0a23ae5d1061e3839c1.js": "https://patidardhaval.github.io/react/precache-manifest.299d63240196b0a23ae5d1061e3839c1.js",
+  "service-worker.js": "https://patidardhaval.github.io/react/service-worker.js",
+  "static/css/2.df750fbc.chunk.css.map": "https://patidardhaval.github.io/react/static/css/2.df750fbc.chunk.css.map",
+  "static/css/main.80adca6a.chunk.css.map": "https://patidardhaval.github.io/react/static/css/main.80adca6a.chunk.css.map"
 }
