@@ -2,6 +2,7 @@ import React, { Component } from "react";
 import { BrowserRouter, Switch,Route } from "react-router-dom";
 import BasicLayout from "./layouts/BasicLayout";
 import LoginLayout from "./layouts/LoginLayout";
+import NetworkDetector from "./Helper/NetworkDetector";
 
 class Main extends Component {
   render() {
@@ -16,4 +17,4 @@ class Main extends Component {
   }
 }
 
-export default Main;
+export default NetworkDetector(Main);
