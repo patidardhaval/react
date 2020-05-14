@@ -1,15 +1,25 @@
 {
-  "main.css": "https://patidardhaval.github.io/react/static/css/main.80adca6a.chunk.css",
-  "main.js": "https://patidardhaval.github.io/react/static/js/main.f74aed2e.chunk.js",
-  "main.js.map": "https://patidardhaval.github.io/react/static/js/main.f74aed2e.chunk.js.map",
-  "runtime~main.js": "https://patidardhaval.github.io/react/static/js/runtime~main.6bee9e38.js",
-  "runtime~main.js.map": "https://patidardhaval.github.io/react/static/js/runtime~main.6bee9e38.js.map",
-  "static/css/2.df750fbc.chunk.css": "https://patidardhaval.github.io/react/static/css/2.df750fbc.chunk.css",
-  "static/js/2.5ec48e7c.chunk.js": "https://patidardhaval.github.io/react/static/js/2.5ec48e7c.chunk.js",
-  "static/js/2.5ec48e7c.chunk.js.map": "https://patidardhaval.github.io/react/static/js/2.5ec48e7c.chunk.js.map",
-  "index.html": "https://patidardhaval.github.io/react/index.html",
-  "precache-manifest.2b7bdae6a2c64c8b941e4cb17264a3e7.js": "https://patidardhaval.github.io/react/precache-manifest.2b7bdae6a2c64c8b941e4cb17264a3e7.js",
-  "service-worker.js": "https://patidardhaval.github.io/react/service-worker.js",
-  "static/css/2.df750fbc.chunk.css.map": "https://patidardhaval.github.io/react/static/css/2.df750fbc.chunk.css.map",
-  "static/css/main.80adca6a.chunk.css.map": "https://patidardhaval.github.io/react/static/css/main.80adca6a.chunk.css.map"
+  "files": {
+    "main.css": "/react/static/css/main.fb03f4d4.chunk.css",
+    "main.js": "/react/static/js/main.5bc376fc.chunk.js",
+    "main.js.map": "/react/static/js/main.5bc376fc.chunk.js.map",
+    "runtime-main.js": "/react/static/js/runtime-main.3c851d4b.js",
+    "runtime-main.js.map": "/react/static/js/runtime-main.3c851d4b.js.map",
+    "static/css/2.e15a0812.chunk.css": "/react/static/css/2.e15a0812.chunk.css",
+    "static/js/2.b7698803.chunk.js": "/react/static/js/2.b7698803.chunk.js",
+    "static/js/2.b7698803.chunk.js.map": "/react/static/js/2.b7698803.chunk.js.map",
+    "index.html": "/react/index.html",
+    "precache-manifest.597d3862033336990989c0bda92fab88.js": "/react/precache-manifest.597d3862033336990989c0bda92fab88.js",
+    "service-worker.js": "/react/service-worker.js",
+    "static/css/2.e15a0812.chunk.css.map": "/react/static/css/2.e15a0812.chunk.css.map",
+    "static/css/main.fb03f4d4.chunk.css.map": "/react/static/css/main.fb03f4d4.chunk.css.map",
+    "static/js/2.b7698803.chunk.js.LICENSE.txt": "/react/static/js/2.b7698803.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3c851d4b.js",
+    "static/css/2.e15a0812.chunk.css",
+    "static/js/2.b7698803.chunk.js",
+    "static/css/main.fb03f4d4.chunk.css",
+    "static/js/main.5bc376fc.chunk.js"
+  ]
 }
