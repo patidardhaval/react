@@ -1,6 +1,6 @@
 {
-  "name": "RouterApp",
-  "version": "0.1.0",
+  "name": "routerapp",
+  "version": "1.0.0",
   "private": true,
   "dependencies": {
     "bootstrap": "^4.5.0",
@@ -35,10 +35,15 @@
     "type": "git",
     "url": "git+https://github.com/patidardhaval/react.git"
   },
-  "author": "",
+  "author": "Dhaval Patel",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/patidardhaval/react/issues"
   },
-  "homepage": "https://patidardhaval.github.io/react"
+  "homepage": "https://patidardhaval.github.io/react",
+  "keywords": [
+    "React",
+    "Routing",
+    "5"
+  ]
 }
