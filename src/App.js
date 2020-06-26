@@ -1,21 +1,20 @@
-import React from "react";
+import React, { Component } from "react";
+import { BrowserRouter, Switch } from "react-router-dom";
+import BasicLayout from "./layouts/BasicLayout";
+import LoginLayout from "./layouts/LoginLayout";
+import NetworkDetector from "./Helper/NetworkDetector";
 
-class AppRouter extends Component {
+class Main extends Component {
   render() {
     return (
-        <div>
-          <h1>Simple SPA</h1>
-          <ul className="header">
-            <li><a href="/">Home</a></li>
-            <li><a href="/stuff">Stuff</a></li>
-            <li><a href="/contact">Contact</a></li>
-          </ul>
-          <div className="content">
-             
-          </div>
-        </div>
+      <BrowserRouter>
+        <Switch>
+            <LoginLayout path='/login' component={LoginLayout} />
+            <BasicLayout path="/" component={BasicLayout} />  
+        </Switch>
+      </BrowserRouter>
     );
   }
 }
- 
-export default AppRouter;
+
+export default NetworkDetector(Main);

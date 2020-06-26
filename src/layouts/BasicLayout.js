@@ -1,9 +1,11 @@
-import React, { Component } from "react";
-import { BrowserRouter, Route,Switch, Link, withRouter } from "react-router-dom";
-import Home from "./../View/Home";
-import Stuff from "./../View/Stuff";
-import Contact from "./../View/Contact";
+import React, { Component,Suspense,lazy } from "react";
+import { BrowserRouter, Route, Switch, Link, withRouter } from "react-router-dom";
 import "./../css/style.css";
+
+const Home =  lazy(() => import('./../View/Home'));
+const Stuff   = lazy(() => import('./../View/Stuff'));
+const Contact =  lazy(() => import('./../View/Contact'));
+
 class BasicLayout extends Component {
   logoutHandler = (e) => {
     const { history } = this.props;
@@ -23,10 +25,13 @@ class BasicLayout extends Component {
           </ul>
           <div className="content">
             <Switch>
-              <Route exact path="/" component={Home} />
-              <Route path="/stuff" component={Stuff} />
-              <Route path="/contact" component={Contact} />
+              <Suspense fallback={<div>Loading...</div>}>
+                <Route exact path="/" component={Home} />
+                <Route path="/stuff" component={Stuff} />
+                <Route path="/contact" component={Contact} />
+              </Suspense>
             </Switch>
+
           </div>
         </div>
       </BrowserRouter>
