@@ -17,7 +17,7 @@
     "predeploy": "npm run build",
     "deploy": "gh-pages -d build"
   },
-  "homepage": "https://patidardhaval.github.io/react/",
+  "homepage": "./",
   "eslintConfig": {
     "extends": "react-app"
   },
@@ -28,6 +28,7 @@
     "not op_mini all"
   ],
   "devDependencies": {
+    "dotenv": "^8.2.0",
     "gh-pages": "^2.2.0"
   },
   "description": "This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).",

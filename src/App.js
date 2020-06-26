@@ -4,10 +4,14 @@ import BasicLayout from "./layouts/BasicLayout";
 import LoginLayout from "./layouts/LoginLayout";
 import NetworkDetector from "./Helper/NetworkDetector";
 
+
 class Main extends Component {
+  componentDidMount(){
+    console.log(process.env)
+  }
   render() {
     return (
-      <BrowserRouter basename="/">
+      <BrowserRouter basename="./">
         <Switch>
             <LoginLayout path='/login' component={LoginLayout} />
             <BasicLayout path="/" component={BasicLayout} />  
