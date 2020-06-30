@@ -1,31 +1,31 @@
 {
   "files": {
-    "main.css": "/react/static/css/main.fb03f4d4.chunk.css",
-    "main.js": "/react/static/js/main.25ba1e21.chunk.js",
-    "main.js.map": "/react/static/js/main.25ba1e21.chunk.js.map",
-    "runtime-main.js": "/react/static/js/runtime-main.3c65ba95.js",
-    "runtime-main.js.map": "/react/static/js/runtime-main.3c65ba95.js.map",
-    "static/css/2.d805e148.chunk.css": "/react/static/css/2.d805e148.chunk.css",
-    "static/js/2.60a45082.chunk.js": "/react/static/js/2.60a45082.chunk.js",
-    "static/js/2.60a45082.chunk.js.map": "/react/static/js/2.60a45082.chunk.js.map",
-    "static/js/3.9f6df007.chunk.js": "/react/static/js/3.9f6df007.chunk.js",
-    "static/js/3.9f6df007.chunk.js.map": "/react/static/js/3.9f6df007.chunk.js.map",
-    "static/js/4.648a9132.chunk.js": "/react/static/js/4.648a9132.chunk.js",
-    "static/js/4.648a9132.chunk.js.map": "/react/static/js/4.648a9132.chunk.js.map",
-    "static/js/5.9e84a5e1.chunk.js": "/react/static/js/5.9e84a5e1.chunk.js",
-    "static/js/5.9e84a5e1.chunk.js.map": "/react/static/js/5.9e84a5e1.chunk.js.map",
-    "index.html": "/react/index.html",
-    "precache-manifest.b128a463d7010f983e1775ff106bee83.js": "/react/precache-manifest.b128a463d7010f983e1775ff106bee83.js",
-    "service-worker.js": "/react/service-worker.js",
-    "static/css/2.d805e148.chunk.css.map": "/react/static/css/2.d805e148.chunk.css.map",
-    "static/css/main.fb03f4d4.chunk.css.map": "/react/static/css/main.fb03f4d4.chunk.css.map",
-    "static/js/2.60a45082.chunk.js.LICENSE.txt": "/react/static/js/2.60a45082.chunk.js.LICENSE.txt"
+    "main.css": "https://patidardhaval.github.io/react/static/css/main.fb03f4d4.chunk.css",
+    "main.js": "https://patidardhaval.github.io/react/static/js/main.3d7ff295.chunk.js",
+    "main.js.map": "https://patidardhaval.github.io/react/static/js/main.3d7ff295.chunk.js.map",
+    "runtime-main.js": "https://patidardhaval.github.io/react/static/js/runtime-main.bebfd9ce.js",
+    "runtime-main.js.map": "https://patidardhaval.github.io/react/static/js/runtime-main.bebfd9ce.js.map",
+    "static/css/2.d805e148.chunk.css": "https://patidardhaval.github.io/react/static/css/2.d805e148.chunk.css",
+    "static/js/2.60a45082.chunk.js": "https://patidardhaval.github.io/react/static/js/2.60a45082.chunk.js",
+    "static/js/2.60a45082.chunk.js.map": "https://patidardhaval.github.io/react/static/js/2.60a45082.chunk.js.map",
+    "static/js/3.9f6df007.chunk.js": "https://patidardhaval.github.io/react/static/js/3.9f6df007.chunk.js",
+    "static/js/3.9f6df007.chunk.js.map": "https://patidardhaval.github.io/react/static/js/3.9f6df007.chunk.js.map",
+    "static/js/4.648a9132.chunk.js": "https://patidardhaval.github.io/react/static/js/4.648a9132.chunk.js",
+    "static/js/4.648a9132.chunk.js.map": "https://patidardhaval.github.io/react/static/js/4.648a9132.chunk.js.map",
+    "static/js/5.9e84a5e1.chunk.js": "https://patidardhaval.github.io/react/static/js/5.9e84a5e1.chunk.js",
+    "static/js/5.9e84a5e1.chunk.js.map": "https://patidardhaval.github.io/react/static/js/5.9e84a5e1.chunk.js.map",
+    "index.html": "https://patidardhaval.github.io/react/index.html",
+    "precache-manifest.f2de4ea9e2c4c1e4485f745e9672f7ce.js": "https://patidardhaval.github.io/react/precache-manifest.f2de4ea9e2c4c1e4485f745e9672f7ce.js",
+    "service-worker.js": "https://patidardhaval.github.io/react/service-worker.js",
+    "static/css/2.d805e148.chunk.css.map": "https://patidardhaval.github.io/react/static/css/2.d805e148.chunk.css.map",
+    "static/css/main.fb03f4d4.chunk.css.map": "https://patidardhaval.github.io/react/static/css/main.fb03f4d4.chunk.css.map",
+    "static/js/2.60a45082.chunk.js.LICENSE.txt": "https://patidardhaval.github.io/react/static/js/2.60a45082.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.3c65ba95.js",
+    "static/js/runtime-main.bebfd9ce.js",
     "static/css/2.d805e148.chunk.css",
     "static/js/2.60a45082.chunk.js",
     "static/css/main.fb03f4d4.chunk.css",
-    "static/js/main.25ba1e21.chunk.js"
+    "static/js/main.3d7ff295.chunk.js"
   ]
 }
