@@ -7,11 +7,11 @@ import NetworkDetector from "./Helper/NetworkDetector";
 
 class Main extends Component {
   componentDidMount(){
-    console.log(process.env)
+    console.log(process.env.PUBLIC_URL)
   }
   render() {
     return (
-      <BrowserRouter basename="./">
+      <BrowserRouter basename={process.env.PUBLIC_URL}>
         <Switch>
             <LoginLayout path='/login' component={LoginLayout} />
             <BasicLayout path="/" component={BasicLayout} />  
