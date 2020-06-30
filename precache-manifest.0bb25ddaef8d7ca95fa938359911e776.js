@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "66df5b6fd602fedf58040313cfabb322",
+    "revision": "baf8a0766cb46bbadb04a86d8cd7d6e9",
     "url": "https://patidardhaval.github.io/react/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "https://patidardhaval.github.io/react/static/css/2.d805e148.chunk.css"
   },
   {
-    "revision": "15e523d731295725bf12",
+    "revision": "9f241fc1b9388650bf20",
     "url": "https://patidardhaval.github.io/react/static/css/main.fb03f4d4.chunk.css"
   },
   {
@@ -32,8 +32,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "https://patidardhaval.github.io/react/static/js/5.9e84a5e1.chunk.js"
   },
   {
-    "revision": "15e523d731295725bf12",
-    "url": "https://patidardhaval.github.io/react/static/js/main.3d7ff295.chunk.js"
+    "revision": "9f241fc1b9388650bf20",
+    "url": "https://patidardhaval.github.io/react/static/js/main.59401067.chunk.js"
   },
   {
     "revision": "0956ea099c6c5ac1c464",
