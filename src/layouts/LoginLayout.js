@@ -12,7 +12,7 @@ class LoginLayout extends Component {
               <div className="card-body">
                 <h5 className="card-title text-center">
                   Sign In ||
-                  <Link to={process.env.PUBLIC_URL + '/'}> Home</Link>
+                  <Link to='/'> Home</Link>
                 </h5>
                 <form className="form-signin">
                   <div className="form-label-group">
